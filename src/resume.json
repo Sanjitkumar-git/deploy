@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Sanjit Kumar",
+    "title": "Hybrid Mobile App Developer",
+    "tagline": "Flutter & Dart | Native Android (Kotlin) | Web & ML Enthusiast",
+    "summary": "I am a passionate Hybrid Mobile App Developer with a strong foundation in native Android development (Kotlin) and cross-platform development using Flutter. I have hands-on experience in building efficient, scalable, and user-friendly mobile applications that seamlessly integrate features like REST APIs, local storage, OCR, TTS, and AI/ML-based functionalities. My goal is to continuously evolve as a developer by creating impactful, innovative applications that solve real-world problems.",
+    "location": "Greater Raipur Area",
+    "email": "sanjitkumar9011@gmail.com",
+    "phone": "",
+    "linkedin": "https://www.linkedin.com/in/sanjit-kumar-linkdin",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sanjit-kumar-linkdin"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Mobile Development",
+      "items": ["Flutter", "Dart", "Native Android", "Kotlin", "Jetpack Compose"]
+    },
+    {
+      "category": "Backend & APIs",
+      "items": ["REST API", "Firebase", "Python"]
+    },
+    {
+      "category": "Emerging Tech",
+      "items": ["Machine Learning", "OCR", "TTS", "AI/ML Integration"]
+    },
+    {
+      "category": "Web",
+      "items": ["Web Design", "HTML", "CSS"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Krishna's Vikash Institute Of Technology Raipur",
+      "degree": "Bachelor of Technology - BTech, Computer Software Engineering",
+      "date": "August 2022 - July 2026",
+      "description": "Undergraduate Computer Science Engineering"
+    },
+    {
+      "institution": "Chhattisgarh Swami Vivekanand Technical University (CSVTU)",
+      "degree": "Bachelor of Technology - BTech",
+      "date": "September 2022",
+      "description": "Affiliated University"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Python Programming Certification",
+      "issuer": "CodeTech It"
+    },
+    {
+      "title": "Software Engineering Job Simulation",
+      "issuer": "J.P. Morgan"
+    },
+    {
+      "title": "Frontend in HTML Certification",
+      "issuer": "Great Learning"
+    },
+    {
+      "title": "Mastering Flutter: A Milestone Achieved!",
+      "issuer": "Self-Paced / Online"
+    }
+  ],
+  "projects": [
+    {
+      "title": "NoteDeck Cv",
+      "role": "Creator",
+      "description": "Your AI co‑pilot: polished notes, stunning PPTs, and tailored resumes — all in one place.",
+      "techStack": ["AI", "Flutter", "Productivity"],
+      "link": "https://notedeckcv.netlify.app",
+      "bullets": [
+        "Generate notes, PPTs & resumes with AI",
+        "AI smart notes & Cloud sync",
+        "4.9 Star Rating (1.3K reviews)"
+      ]
+    },
+    {
+      "title": "Safety Alert App",
+      "role": "Creator",
+      "description": "One-tap SOS with live location. Instantly alert trusted contacts.",
+      "techStack": ["Android", "Location Services", "Security"],
+      "link": "https://drive.google.com/file/d/17iZN1nPNNmYzLNb2eu3TOfB_3gVFcWXj/view?usp=sharing",
+      "bullets": [
+        "Instant SOS with live location",
+        "End-to-end encrypted",
+        "4.9 Star Rating (1.2K reviews)"
+      ]
+    },
+    {
+      "title": "Medico",
+      "role": "Creator",
+      "description": "Detect health conditions using on‑device ML. Shareable PDF reports.",
+      "techStack": ["TFLite", "ML", "Android"],
+      "link": "https://drive.google.com/file/d/1pGRd184OL_IVy7SjDoCA0jH9KaEuCIIB/view?usp=sharing",
+      "bullets": [
+        "TFLite detection for multi-conditions",
+        "PDF generator for reports",
+        "4.5 Star Rating (500+ reviews)"
+      ]
+    },
+    {
+      "title": "ChetChat",
+      "role": "Creator",
+      "description": "Full‑featured chat with group conversations, press & hold actions, and privacy controls.",
+      "techStack": ["Flutter", "Firebase", "Real-time"],
+      "link": "https://chetchat.netlify.app/",
+      "bullets": [
+        "Group chats & Video calls",
+        "Hidden private lock feature",
+        "4.8 Star Rating"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "High User Ratings",
+      "metric": "4.9/5",
+      "context": "Average rating across deployed apps"
+    },
+    {
+      "title": "Active User Base",
+      "metric": "3K+",
+      "context": "Estimated combined user base based on reviews"
+    }
+  ]
+}
