@@ -31,7 +31,7 @@ export default function AppsSection() {
       ],
       links: [
         { label: "web app", url: "https://notedeckcv.netlify.app", type: "web" },
-        { label: "android", url: "notesaigenerator/NoteDeckCv.apk", type: "android" },
+        { label: "android", url: "/notesaigenerator/NoteDeckCv.apk", type: "android" },
         { label: "desktop", action: "alert", type: "desktop" },
       ],
       color: "blue",
@@ -96,7 +96,7 @@ export default function AppsSection() {
       ],
       links: [
         { label: "web app", url: "https://chetchat.netlify.app/", type: "web" },
-        { label: "android apk", url: "ChetChat/ChetChat.apk", type: "android" },
+        { label: "android apk", url: "/ChetChat/ChetChat.apk", type: "android" },
       ],
       color: "indigo",
       version: "2.0-beta",
