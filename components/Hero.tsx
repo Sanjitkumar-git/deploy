@@ -13,9 +13,8 @@ export default function Hero() {
   };
 
   const downloadResume = () => {
-    // Simple PDF download - public folder se direct link
     const link = document.createElement("a");
-    link.href = "/resume.pdf";  // public/resume.pdf
+    link.href = "/resume.pdf";
     link.download = "Sanjit_Kumar_Resume.pdf";
     document.body.appendChild(link);
     link.click();
