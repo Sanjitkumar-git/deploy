@@ -13,16 +13,13 @@ export default function Hero() {
   };
 
   const downloadResume = () => {
-    // In a real app, this would generate a PDF. For now, we'll just alert or link to a raw view.
-    // Since we don't have a PDF generation backend, we'll simulate it.
-    const jsonString = `data:text/json;chatset=utf-8,${encodeURIComponent(
-      JSON.stringify(resumeData, null, 2)
-    )}`;
+    // Simple PDF download - public folder se direct link
     const link = document.createElement("a");
-    link.href = jsonString;
-    link.download = "Sanjit_Kumar_Resume_Data.json";
+    link.href = "/resume.pdf";  // public/resume.pdf
+    link.download = "Sanjit_Kumar_Resume.pdf";
+    document.body.appendChild(link);
     link.click();
-    alert("Resume data downloaded as JSON. (PDF generation requires backend)");
+    document.body.removeChild(link);
   };
 
   return (
