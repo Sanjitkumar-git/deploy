@@ -18,7 +18,7 @@ export default function Footer() {
             </div>
             <div>
               <h2 className="text-2xl font-bold text-white">{resumeData.basics.name}</h2>
-              <p className="text-gray-400 text-sm">8th semester · B.Tech · Full‑stack Creator</p>
+              <p className="text-gray-400 text-sm">8th semester · B.Tech · Full‑stack Developer</p>
             </div>
           </div>
 
